@@ -1,2 +1,2 @@
-gstreamlit
+streamlit
 psycopg2-binary
